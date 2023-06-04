@@ -20,4 +20,4 @@ static int SumNums(int M, int N)
 int M = ReadInt("Введите положительное число M: ");
 int N = ReadInt("Введите положительно число N: ");
 int sum = SumNums(M, N);
-Console.WriteLine($"Сумма натуральных чисел в промежутке от {M} до {N} = {sum}");Í
+Console.WriteLine($"Сумма натуральных чисел в промежутке от {M} до {N} = {sum}");

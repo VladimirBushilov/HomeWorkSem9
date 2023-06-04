@@ -2,6 +2,11 @@
 // m = 2, n = 3 -> A(m,n) = 9
 // m = 3, n = 2 -> A(m,n) = 29
 
+int ReadInt(string text)
+{
+    System.Console.Write(text);
+    return Convert.ToInt32(Console.ReadLine());
+}
 
 int Ackermann(int m, int n)
 {
@@ -13,9 +18,6 @@ int Ackermann(int m, int n)
         return Ackermann(m - 1, Ackermann(m, n - 1));
 }
 
-
-Console.Write("Введите значение m: ");
-int m = int.Parse(Console.ReadLine());
-Console.Write("Введите значение n: ");
-int n = int.Parse(Console.ReadLine());
+int m = ReadInt("Введите положительное число m: ");
+int n = ReadInt("Введите положительно число n: ");
 Console.WriteLine($"Значение функции Аккермана для ({m}, {n}) = {Ackermann(m, n)}");

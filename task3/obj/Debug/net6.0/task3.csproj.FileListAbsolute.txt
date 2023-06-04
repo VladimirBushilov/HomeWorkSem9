@@ -1,0 +1,15 @@
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/obj/Debug/net6.0/task3.csproj.AssemblyReference.cache
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/obj/Debug/net6.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/obj/Debug/net6.0/task3.AssemblyInfoInputs.cache
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/obj/Debug/net6.0/task3.AssemblyInfo.cs
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/obj/Debug/net6.0/task3.csproj.CoreCompileInputs.cache
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/bin/Debug/net6.0/task3
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/bin/Debug/net6.0/task3.deps.json
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/bin/Debug/net6.0/task3.runtimeconfig.json
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/bin/Debug/net6.0/task3.dll
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/bin/Debug/net6.0/task3.pdb
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/obj/Debug/net6.0/task3.dll
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/obj/Debug/net6.0/refint/task3.dll
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/obj/Debug/net6.0/task3.pdb
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/obj/Debug/net6.0/task3.genruntimeconfig.cache
+/Users/anastasiaten/Desktop/обучение Вова/HomeWorkSem9 Final/task3/obj/Debug/net6.0/ref/task3.dll
